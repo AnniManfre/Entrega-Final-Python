@@ -1,0 +1,14 @@
+{% extends 'Proyecto/base.html' %}
+
+{% block title %}Ingresar Datos de Salud{% endblock title %}
+
+{% block main %}
+<div class="container mt-5">
+    <h2>Ingresar Datos de Salud</h2>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </form>
+</div>
+{% endblock main %}
