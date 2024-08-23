@@ -10,7 +10,7 @@ Django 3.2+
 
 |Pasos de Instalación|
 --Clona el repositorio:--
-git clone https://github.com/tu_usuario/AppNutri.git
+git clone [https://github.com/AnniManfre/Entrega-Final-Python.git]
 --Navega al directorio del proyecto:--
 cd AppNutri
 --Crea un ambiente virtual y actívalo:--
@@ -27,4 +27,6 @@ Ahora, visita http://127.0.0.1:8000 en tu navegador para comenzar a usar AppNutr
 
 Uso --->
 Una vez que hayas iniciado el servidor de desarrollo, puedes acceder a la aplicación navegando a http://127.0.0.1:8000. Desde allí, puedes registrarte, iniciar sesión y comenzar a utilizar las diversas características de la aplicación para gestionar tu dieta y estilo de vida.
+
+Video Explicativo: https://youtu.be/dBGonKPoke8
 
